@@ -4,9 +4,29 @@ title:  "learn markdown"
 date:   2018-02-28 14:39:39
 categories: markdown
 tags: markdown
-excerpt: 当年创建 jekyll 时默认的一篇文章，没什么意义，我也一直没删除，留个纪念吧。
+excerpt: 学习markdown的笔记
 mathjax: true
 ---
 # Markdown 语法学习
+<!-- TOC -->
 
-## 1.markdown
+- [Markdown 语法学习](#markdown-语法学习)
+    - [1.标题等级](#1标题等级)
+        - [1.1 标题的表示方法](#11-标题的表示方法)
+    - [2.表格](#2表格)
+    - [3.图片](#3图片)
+
+<!-- /TOC -->
+## 1.标题等级
+### 1.1 标题的表示方法
+
+
+使用#使
+## 2.表格
+
+## 3.图片
+
+
+A B C:
+------
+a b c:
