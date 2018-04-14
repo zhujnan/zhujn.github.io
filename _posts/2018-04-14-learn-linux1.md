@@ -28,3 +28,12 @@ mathjax: true
 ## 安装软件
 
     yum -y install [软件1 | 软件2 ……]
+
+
+Column A | Column B | Column C
+---------|----------|---------
+ A1 | B1 | C1
+ A2 | B2 | C2
+ A3 | B3 | C3
+
+ ![avatar](https://wx3.sinaimg.cn/crop.144.178.984.554/90eb2137ly1fqc1n709iyj20xc0m80ve.jpg)
