@@ -3,7 +3,7 @@ layout: post
 title:  "C++的继续学习之路"
 date:   2018-04-23 23:00:51
 categories: xcracker   
-tags: centos linux learn
+tags: C++ 学习 心情
 excerpt: 重新继续我C++的学习
 mathjax: true
 ---
