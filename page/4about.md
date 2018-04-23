@@ -38,7 +38,7 @@ type: page
 
 ## 友情链接
 
-[萱喵的小博客](http://www.itistheperfectblue.com/) \| [Anotherhome](https://www.anotherhome.net) \|
+[Rebecca.Wu](http://m.itistheperfectblue.com/) \| [Anotherhome](https://www.anotherhome.net) \|
 
 ## Comments
 
