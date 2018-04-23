@@ -7,7 +7,6 @@ tags: centos linux learn
 excerpt: 第一天的centos linux课程笔记
 mathjax: true
 ---
-
 # linux简单操作
 
 ## 修改ip地址
