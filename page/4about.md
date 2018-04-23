@@ -38,7 +38,7 @@ type: page
 
 ## 友情链接
 
-[Rebecca.Wu](http://m.itistheperfectblue.com/) \| [Anotherhome](https://www.anotherhome.net) \|
+[Rebecca.Wu](http://m.itistheperfectblue.com/) \| [英格科技](http://www.eagleslab.com/) \|
 
 ## Comments
 
