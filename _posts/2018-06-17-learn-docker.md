@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "learn docker"
+title:  "docker 学习笔记"
 date:   2018-06-17 15:33:52
 categories: docker
 tags: docker
@@ -59,3 +59,22 @@ CentOS 版本是否支持 Docker 。
     # docker version
 
 ## 2 使用镜像
+
+镜像是docker的三大组件之一,docker运行之前需要本地存在对应的镜像，如果镜像不存在本地，docker会从镜像仓库下载（默认是从docker hub公众注册服务器中的仓库）。
+
+### 2.1 从 Docker Registry 获取镜像的命令是  docker pull  。其命令格式为：
+
+    # docker pull [选项] [Docker Registry地址]<仓库名>:<标签>
+    # docker pull ubuntu:14.04 #这时候会从docker hub中下载此镜像到本地
+
+## 运行容器
+
+    # docker run -it --rm ubuntu:14.04 bash
+
+run指的是运行一个容器
+-i 指的是交互式操作
+-t 指的是 终端
+--rm指的是容器退出后随之将其删除
+容器运行的基础是ubuntu:14.04系统，运行后进入`bash`执行一些命令查看结果
+
+
